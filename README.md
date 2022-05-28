@@ -50,9 +50,9 @@ Deployed Website (on Heroku):
 * React, Bootstrap For Frontend Server
 * Django Rest FrameWork For Backend Server
 * Celery For Running Async Tasks On backend Server 
-* Azure Face Detection Api for Facedetection 
-* Azure Face Verifiaction Api for Face verification
-* Mapbox For embedding Maps
+* Azure Face Detection Api for Facedetection (https://docs.microsoft.com/en-us/rest/api/faceapi/face/detect-with-stream)
+* Azure Face Verifiaction Api for Face verification (https://docs.microsoft.com/en-us/rest/api/faceapi/face/verify-face-to-face)
+* Mapbox For embedding Maps (https://www.mapbox.com/)
 * gecoding and reverse geocoding for Api's for fecthing Location from coordinate
 * Auto Suggest Mapbox Api for Loaction Search Bar
 * Smtp For Email Notifiaction From Backend Server(Django Rest Framework)
