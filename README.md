@@ -7,10 +7,8 @@
 <h2>Backend-repo(https://github.com/codelover4655/eng_backend)</h2>
 <hr />
 
-Find Missing People is an web application where you can file complain for missing people as well as if you found someone in strey condtions or someone
-got lost form their loved ones and this application uses face recognization to match profile of Missing people and Found people such that if 
-you file a missing complain of someone and someother people may be after sometime found him and file complain of found so this application notify both 
-user that they got a match.
+Find Missing People is a web application that helps simplify the issue of locating missing people, You can file complaints for missing people or if you found someone in stray conditions or if someone got lost from their loved ones. The application uses face recognization to match profiles for the Missing people and Found people and notifies both users whenever there is a match. Example - User A lodged a complaint about a missing person, and another User B founds a person and files a request,
+ then if there is a match found then, both of them would be notified.
 
 > #### List of Features it currently Supports includes : 
 
