@@ -14,7 +14,7 @@ Find Missing People is a web application that helps simplify the issue of locati
 
 * Matching Missing Person Profile To Found Person Profile via Face Recognization Azure Api 
 * Email Notificaton when got a match 
-*  Async Task Sechdulding via Celery on Backend Server For Better Performance and Less Waiting Time
+*  Async Task scheduling via Celery on Backend Server For Better Performance and Less Waiting Time
 *  Fuzzy Search For Searching in List of Profiles for Better Filtering 
 * 👤 User Authenticaion 
 * Authentication also Supports Google Login
